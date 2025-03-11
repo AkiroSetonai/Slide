@@ -22,6 +22,7 @@ git clone https://github.com/AkiroSetonai/Slide.git
 ```
 
 <h3> Acesse o Diretório do Projeto: </h3>
+
 ```sh
 cd Slide
 ```
